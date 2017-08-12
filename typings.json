@@ -1,0 +1,9 @@
+{
+  "globalDependencies": {
+    "cordova-plugin-device": "registry:dt/cordova-plugin-device#0.0.0+20160919075538",
+    "cordova-plugin-qrscanner": "registry:dt/cordova-plugin-qrscanner#1.0.0+20160510002910",
+    "cordova-plugin-splashscreen": "registry:dt/cordova-plugin-splashscreen#0.0.0+20160819210047",
+    "cordova-plugin-statusbar": "registry:dt/cordova-plugin-statusbar#0.0.0+20160819210047",
+    "phonegap-plugin-barcodescanner": "registry:dt/phonegap-plugin-barcodescanner#0.0.0+20161005184000"
+  }
+}
